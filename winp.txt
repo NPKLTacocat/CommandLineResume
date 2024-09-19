@@ -1,5 +1,3 @@
-# Content of the script.ps1
-@"
 -----------------------------------
            RESUME
 -----------------------------------
@@ -12,4 +10,3 @@ Skills:
 - Programming: Python, PowerShell, C#
 - Tools: Git, Jenkins, Docker
 -----------------------------------
-"@
