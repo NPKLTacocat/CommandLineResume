@@ -1,6 +1,9 @@
 #!/bin/bash
 
-cat <<EOF
+# Define the output file
+output_file="resume.txt"
+
+cat <<EOF | tee "$output_file"
 -----------------------------------
            RESUME
 -----------------------------------
@@ -14,3 +17,5 @@ Skills:
 - Tools: Git, Jenkins, Docker
 -----------------------------------
 EOF
+
+echo "Resume has been saved to $output_file"
