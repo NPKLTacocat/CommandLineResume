@@ -1,5 +1,7 @@
 # Remote Resume Fetcher  
 
+Have you ever thought of impressing your recruiter by pulling up your resume on their terminal? Then this repository is your solution
+
 📄 A simple script to retrieve and display a resume on different platforms (Linux/macOS/Windows).  
 
 ## Features  
